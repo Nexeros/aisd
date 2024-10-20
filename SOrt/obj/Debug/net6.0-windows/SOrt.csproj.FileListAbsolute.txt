@@ -1,0 +1,17 @@
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.csproj.AssemblyReference.cache
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.Form1.resources
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.csproj.GenerateResource.cache
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.AssemblyInfoInputs.cache
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.AssemblyInfo.cs
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.csproj.CoreCompileInputs.cache
+C:\Users\picas\source\repos\SOrt\SOrt\bin\Debug\net6.0-windows\SOrt.exe
+C:\Users\picas\source\repos\SOrt\SOrt\bin\Debug\net6.0-windows\SOrt.deps.json
+C:\Users\picas\source\repos\SOrt\SOrt\bin\Debug\net6.0-windows\SOrt.runtimeconfig.json
+C:\Users\picas\source\repos\SOrt\SOrt\bin\Debug\net6.0-windows\SOrt.dll
+C:\Users\picas\source\repos\SOrt\SOrt\bin\Debug\net6.0-windows\SOrt.pdb
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.dll
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\refint\SOrt.dll
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.pdb
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\SOrt.genruntimeconfig.cache
+C:\Users\picas\source\repos\SOrt\SOrt\obj\Debug\net6.0-windows\ref\SOrt.dll
