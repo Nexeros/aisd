@@ -1,0 +1,10 @@
+C:\Users\picas\source\repos\aisd\aisd\bin\Debug\aisd.exe.config
+C:\Users\picas\source\repos\aisd\aisd\bin\Debug\aisd.exe
+C:\Users\picas\source\repos\aisd\aisd\bin\Debug\aisd.pdb
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.csproj.AssemblyReference.cache
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.Form1.resources
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.Properties.Resources.resources
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.csproj.GenerateResource.cache
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.csproj.CoreCompileInputs.cache
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.exe
+C:\Users\picas\source\repos\aisd\aisd\obj\Debug\aisd.pdb
