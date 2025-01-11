@@ -1,0 +1,16 @@
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\SZKOŁA\3. Algorytmy i Struktury Danych\Projekt3\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
