@@ -1,0 +1,10 @@
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\bin\Debug\Dijkstry.exe.config
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\bin\Debug\Dijkstry.exe
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\bin\Debug\Dijkstry.pdb
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.csproj.AssemblyReference.cache
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.Form1.resources
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.Properties.Resources.resources
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.csproj.GenerateResource.cache
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.csproj.CoreCompileInputs.cache
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.exe
+C:\Users\picas\source\repos\Dijkstry\Dijkstry\obj\Debug\Dijkstry.pdb
